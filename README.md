@@ -1,1 +1,1 @@
-Basic animations with CSS3.
+Basic animations with CSS3 and JavaScript
